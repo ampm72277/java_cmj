@@ -14,6 +14,9 @@ public class MethodEx5 {
 	 * 리턴타입 	: 없음 => void
 	 * 메소드명 	: printChar1
 	 */
+	
+	
+	
 	public static void printChar1(char ch, int count) {
 		for(int i=0; i<count; i+=1) {
 			System.out.print(ch);
